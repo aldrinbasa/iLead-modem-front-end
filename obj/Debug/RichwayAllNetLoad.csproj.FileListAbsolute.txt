@@ -1,0 +1,91 @@
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe.config
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.pdb
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csprojAssemblyReference.cache
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.MainForm.resources
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.Properties.Resources.resources
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.GenerateResource.cache
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CoreCompileInputs.cache
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.pdb
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\MySql.Data.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\Google.Protobuf.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\Zstandard.Net.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\BouncyCastle.Crypto.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\Ubiety.Dns.Core.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\Renci.SshNet.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\System.Memory.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\System.Buffers.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\K4os.Hash.xxHash.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\bin\Debug\MySql.Data.xml
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe.config
+D:\Computer Files\Documents\Visual Studio Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CopyComplete
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csprojAssemblyReference.cache
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe.config
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.MainForm.resources
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.Properties.Resources.resources
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.GenerateResource.cache
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CoreCompileInputs.cache
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe
+C:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.pdb
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csprojAssemblyReference.cache
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe.config
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.MainForm.resources
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.Properties.Resources.resources
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.GenerateResource.cache
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CoreCompileInputs.cache
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe
+D:\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.pdb
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csprojAssemblyReference.cache
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe.config
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.MainForm.resources
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.Properties.Resources.resources
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.GenerateResource.cache
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CoreCompileInputs.cache
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.pdb
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe.config
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.pdb
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\Google.Protobuf.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\Zstandard.Net.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\Renci.SshNet.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\System.Memory.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\System.Buffers.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\bin\Debug\MySql.Data.xml
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CopyComplete
+C:\Users\aldri\Documents\Programs\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.RetailersDetailsForm.resources
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe.config
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.exe
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\RichwayAllNetLoad.pdb
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\Google.Protobuf.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\Zstandard.Net.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\Renci.SshNet.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\System.Memory.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\System.Buffers.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\bin\Debug\MySql.Data.xml
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csprojAssemblyReference.cache
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe.config
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.MainForm.resources
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.Properties.Resources.resources
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.RetailersDetailsForm.resources
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.GenerateResource.cache
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CoreCompileInputs.cache
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.csproj.CopyComplete
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.exe
+C:\Users\aldri\Downloads\Richway AllNet Load\RichwayAllNetLoad\obj\Debug\RichwayAllNetLoad.pdb
